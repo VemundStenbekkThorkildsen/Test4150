@@ -1,2 +1,2 @@
 # Test4150
-This is a test repository. Okay i will ad som more text. 
+This is a test repository. Okay i will add som more text. 
